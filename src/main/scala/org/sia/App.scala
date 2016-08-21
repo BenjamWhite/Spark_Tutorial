@@ -9,7 +9,7 @@ object App {
 
   def main(args : Array[String]) {
     val conf = new SparkConf()
-      .setAppName("The swankiest Spark app ever")
+      .setAppName("Best test whatsoever")
       .setMaster("local[*]")
 
     val sc = new SparkContext(conf)
