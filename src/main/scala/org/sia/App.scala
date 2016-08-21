@@ -2,9 +2,7 @@ package org.sia.chapter03App
 
 import org.apache.spark.{SparkConf, SparkContext}
 
-/**
- * @author ${not, again}
- */
+
 object App {
 
   def main(args : Array[String]) {
